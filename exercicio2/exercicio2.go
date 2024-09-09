@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	var input string
+	input := "A persistência é o caminho do êxito."
 	var choice int
 
 	fmt.Println("Escolha a forma de entrada da string:")
@@ -19,7 +19,6 @@ func main() {
 		fmt.Print("Informe uma string: ")
 		fmt.Scan(&input)
 	} else if choice == 2 {
-		input = "A persistência é o caminho do êxito."
 		fmt.Printf("String pré-definida: %s\n", input)
 	} else {
 		fmt.Println("Escolha inválida.")
