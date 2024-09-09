@@ -6,9 +6,9 @@ d) 4, 16, 36, 64, ____
 e) 1, 1, 2, 3, 5, 8, ____
 f) 2,10, 12, 16, 17, 18, 19, ____
 
-a) Esta é uma sequência de números ímpares consecutivos, próximo número é 9
-b) Cada numero é o dobro do anterior, próximo número é 128
-c) Sequência dos quadrados perfeitos, próximo número é 49
-d) Sequência dos quadrados dos números pares, próximo número é 100
-e) Sequência de Fibonacci, próximo número 13
-f) Todos os números começam com a letra D, próximo número 200
+a) Esta é uma sequência de números ímpares consecutivos, próximo número é 9.
+b) Cada numero é o dobro do anterior, próximo número é 128.
+c) Sequência dos quadrados perfeitos, próximo número é 49.
+d) Sequência dos quadrados dos números pares, próximo número é 100.
+e) Sequência de Fibonacci, próximo número 13.
+f) Todos os números começam com a letra D, próximo número 200.
